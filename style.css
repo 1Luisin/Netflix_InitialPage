@@ -1,0 +1,22 @@
+#body
+{
+background-color: rgb(39, 39, 39);
+text-align: center;
+}
+
+.text1
+{
+color:rgb(255, 248, 239);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+margin-top: 8%;
+
+}
+
+.img
+{
+margin-top: 6%;
+width: 180px;
+
+
+}
