@@ -1,0 +1,1 @@
+Projeto criado para imitar a página inicial do netflix. Iniciado através de exercício da faculdade.
