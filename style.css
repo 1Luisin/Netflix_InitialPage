@@ -12,6 +12,31 @@ font-size: 20px;
 margin-top: 5%;
 }
 
+#subtext1
+{
+    color:rgb(255, 248, 239);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+
+#subtext2
+{
+    color:rgb(255, 248, 239);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#subtext3
+{
+    color:rgb(255, 248, 239);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#subtext4
+{
+    color:rgb(255, 248, 239);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 #logo
 {
 display: flex;
